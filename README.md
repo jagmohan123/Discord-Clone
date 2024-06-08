@@ -3,6 +3,9 @@
 # Discord Website Clone
 This project is a clone of the Discord website created using HTML, Tailwind CSS, and custom CSS. The aim of this project is to replicate the visual appearance and basic functionality of the Discord website for educational and practice purposes.
 
+# Live Link
+https://discord-clone3983.netlify.app/
+
 # Technologies Used
 # HTML: 
 Used for the structure and layout of the webpage.
